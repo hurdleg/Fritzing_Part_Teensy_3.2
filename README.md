@@ -5,15 +5,23 @@ The Teensy is a complete USB-based microcontoller development system, in a very 
 For more information: http://www.pjrc.com/teensy
 
 ## Breadboard
-<img src="./core/svg/breadboard/Teensy_3.2_breadboard.svg">
+![Teensy 3.2. breadboard](./core/svg/breadboard/Teensy_3.2_breadboard.svg)
 
 ## Icon
-<img src="./core/svg/icon/Teensy_3.2_icon.svg">
+![Teensy 3.2. icon](./core/svg/icon/Teensy_3.2_icon.svg)
 
 ## PCB
-<img src="./core/svg/pcb/Teensy_3.2_pcb.svg">
+![Teensy 3.2. pcb](./core/svg/pcb/Teensy_3.2_pcb.svg)
 
 ## Schematic
-<img src="./core/svg/schematic/Teensy_3.2_schematic.svg">
+![Teensy 3.2. schematic](./core/svg/schematic/Teensy_3.2_schematic.svg)
 
-#### @author Gerald.Hurdle@AlgonquinCollege.com
+***
+
+# Installation
+1. Copy file `Teensy_3.2.fzpz` to folder `$FRITZING_HOME/bins`
+2. Launch `fritzing` app and import `Teensy_3.2.fzpz` into Parts bin named: **My Parts**
+![Import Teensy_3.2.fzpz](/unit-test/uat-Teensy_3.2_breadboard.png)
+
+### Enjoy!
+### @author Gerald.Hurdle@AlgonquinCollege.com

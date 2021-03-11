@@ -1,4 +1,13 @@
 #!/usr/bin/python
+
+#
+# mk_fzpz.py - make a fritzing part file in FZPZ format.
+#
+# Usage: python ./bin/mk_fzpz.py
+#
+# @author Gerald.Hurdle@AlgonquinCollege.com
+#
+
 import os
 import subprocess
 from shutil import copyfile
