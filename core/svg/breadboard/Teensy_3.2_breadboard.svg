@@ -318,6 +318,7 @@
 			<rect id="_x30_.15.5.0" x="43.853" y="17.146" fill="#333333" width="2.101" height="3.733"/>
 		</g>
 	</g>
+	<!-- TODO :: Onboard LED :: orange #F37220 -->
 	<rect id="_x30_.16" x="88.887" y="8.368" fill="#333333" width="5.704" height="2.101"/>
 	<rect id="_x30_.17" x="82.203" y="8.368" fill="#333333" width="5.704" height="2.101"/>
 	<rect id="_x30_.18" x="18.702" y="16.141" fill="#333333" width="4.093" height="2.104"/>

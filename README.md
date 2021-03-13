@@ -21,7 +21,13 @@ For more information: http://www.pjrc.com/teensy
 # Installation
 1. Copy file `Teensy_3.2.fzpz` to folder `$FRITZING_HOME/bins`
 2. Launch `fritzing` app and import `Teensy_3.2.fzpz` into Parts bin named: **My Parts**
-![Import Teensy_3.2.fzpz](/unit-test/uat-Teensy_3.2_breadboard.png)
+![Import Teensy_3.2.fzpz](./unit-test/uat-Teensy_3.2_breadboard.png)
+
+# Onboard LED
+To turn on the onboard LED (digital pin 13), edit `./core/svg/breadboard/Teensy_3.2_breadboard.svg` and change the **fill** attribute to: #F37220
+
+    <!-- TODO :: Onboard LED :: orange #F37220 -->
+    <rect id="_x30_.16" x="88.887" y="8.368" fill="#333333" width="5.704" height="2.101"/>
 
 ### Enjoy!
 ### @author Gerald.Hurdle@AlgonquinCollege.com
